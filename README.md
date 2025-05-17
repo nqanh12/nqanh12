@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Tran Hoang Anh Tu</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Quoc Anh</h1>
 
 <p align="center">
 🚀 I'm a passionate developer
 </p>
 
-- 🔭 I’m currently working with **Java Spring Boot** and **Flutter**
+- 🔭 I’m currently working with **Java Spring Boot** , **Flutter** and **React Native**
 - 💡 Passionate about building robust backend systems and cross-platform mobile apps
 - 🎓 Studying at **Ho Chi Minh City University of Industry and Trade**
-- 📫 Reach me at: tranhantu1112003@gmail.com
-- 🌐 Check out my portfolio: [atuedev.vercel.app](https://atuedev.vercel.app)
+- 📫 Reach me at: nqanh120503@gmail.com
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://web.facebook.com/n.qqame))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quocos.anh_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nqanh1205/)
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,androidstudio,postgres,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,androidstudio,postgres,mysql,git,github,vscode,reactnative" />
 </p>
 
 ---
