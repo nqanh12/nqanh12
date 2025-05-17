@@ -40,12 +40,3 @@
 
 ---
 
-### 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trhgtau&repo=flutter-event-app)](https://github.com/trhgtau/flutter-event-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trhgtau&repo=spring-boot-auth-api)](https://github.com/trhgtau/spring-boot-auth-api)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trhgtau&repo=training-points-api)](https://github.com/trhgtau/training-points-api)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trhgtau&repo=student-checkin-app)](https://github.com/trhgtau/student-checkin-app)
